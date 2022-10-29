@@ -1,5 +1,7 @@
 # On every push this script is executed
 on: push
+env: 
+  BUILD_THEMES: false
 name: Build and deploy GH Pages
 jobs:
   build:
