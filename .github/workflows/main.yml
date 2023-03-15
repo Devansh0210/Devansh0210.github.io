@@ -7,6 +7,9 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     steps:
+      - name: give_access
+        run: git config --global --add safe.directory /github/workspace
+        
       - name: checkout
         uses: actions/checkout@v3
         with:
