@@ -1,7 +1,9 @@
 +++
-title = "Intro Post"
-date = 2022-10-29
+title = "Understanding USB-HID Class using RP2040 and TinyUSB"
+date = 2023-03-17
 [taxonomies]
-categories = ["code"]
-tags = ["markdown"]
+categories = ["comparch"]
+tags = ["code"]
 +++
+
+

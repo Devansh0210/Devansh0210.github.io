@@ -2,19 +2,13 @@
 template = "post-page.html"
 +++
 
-## ---- Under Developement ----
+### About Me
 
-#### About Me
+I am final-year UG Student in EEE at BITS Pilani, Pilani. I'm currently interning at [Texas Instruments](https://www.ti.com/)
 
-I am final-year UG Student in EEE at BITS Pilani, Pilani.
-<br> I am passionate about:
-- Embedded System Design
+My Research Areas are:
+- Computer Architecture & Digital Design
+- Embedded System Design 
 - Software Defined Radio
-- Digital **Electronics**
+- Control Systems
 
-I'll be joining [Texas Instrument](https://www.ti.com/) as Digital Design Engineer.
-
-Currently, I am working on:
-1. Design of SAR ADC without explicit DAC
-2. Building Wireless Sensor Network using LoRa for precision agriculture application
-   

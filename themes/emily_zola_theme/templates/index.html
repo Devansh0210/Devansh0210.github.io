@@ -4,11 +4,20 @@
 
 {% set about_page = get_page(path="about.md") %}
 
+<!-- {% set exp_page = get_page(path="experience.md") %} -->
+
 <p>
   <div class="intro">
     {{ about_page.content | safe }}
   </div>
 </p>
+
+<!-- <p> -->
+  <!-- <div class="exper">
+    {{ exp_page.content | safe }}
+  </div>
+</p> -->
+
 
 {% set section = get_section(path="post/_index.md") %}
 {% for page in section.pages %}
